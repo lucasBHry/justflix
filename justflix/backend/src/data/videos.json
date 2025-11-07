@@ -1,0 +1,23 @@
+[
+    {
+        "id": "video-1",
+        "topic": "educacion",
+        "description": "Introducción a Flutter",
+        "duration": 120.0,
+        "thumbnail": "flutter_intro.png"
+    },
+    {
+        "id": "video-2",
+        "topic": "tecnologia",
+        "description": "Backend con Node y Express",
+        "duration": 180.5,
+        "thumbnail": "node_backend.png"
+    },
+    {
+        "id": "video-3",
+        "topic": "educacion",
+        "description": "State management básico",
+        "duration": 95.0,
+        "thumbnail": "state.png"
+    }
+    ]
